@@ -1,0 +1,12 @@
+http://www.digikey.com/product-detail/en/ATTINY45-20XUR/ATTINY45-20XURCT-ND/2774364	- IC MCU 8BIT 4KB FLASH 8TSSOP
+http://www.digikey.com/product-detail/en/NTR5103NT1G/NTR5103NT1GOSCT-ND/5801875		- MOSFET N-CH 60V 0.26A SOT23
+http://www.digikey.com/product-detail/en/BAT54SWFILM/497-14153-1-ND/4503542		- DIODE ARRAY SCHOTTKY 40V SOT323
+http://www.digikey.com/product-detail/en/CL21F104ZBCNNNC/1276-1007-1-ND/3889093		- CAP CER 0.1UF 50V Y5V 0805
+http://www.digikey.com/product-detail/en/CL21A106KQCLRNC/1276-2405-1-ND/3890491		- CAP CER 10UF 6.3V X5R 0805
+http://www.digikey.com/product-detail/en/RMCF0805JT390R/RMCF0805JT390RCT-ND/1942549	- RES SMD 390 OHM 5% 1/8W 0805
+http://www.digikey.com/product-detail/en/RMCF0805JT470R/RMCF0805JT470RCT-ND/1942551	- RES SMD 470 OHM 5% 1/8W 0805
+http://www.digikey.com/product-detail/en/RMCF0805JT510R/RMCF0805JT510RCT-ND/1942552	- RES SMD 510 OHM 5% 1/8W 0805
+http://www.digikey.com/product-detail/en/RMCF0805JT510K/RMCF0805JT510KCT-ND/1942599	- RES SMD 510K OHM 5% 1/8W 0805
+http://www.digikey.com/product-detail/en/CLV1A-FKB-CJ1M1F1BB7R4S3/CLV1A-FKB-CJ1M1F1BB7R4S3CT-ND/1987488 - LED RGB DIFFUSED 4PLCC SMD
+http://www.digikey.com/product-detail/en/QBLP631-IW/1516-1085-1-ND/4814812		- LED WHITE 0805 SMD
+
